@@ -1,0 +1,31 @@
+{
+  "private": true,
+  "name": "RESTservice",
+  "version": "1.0.0",
+  "description": "Simple RESTservice using pure node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acarrasquillo/nodejsRESTservice.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mysql",
+    "http",
+    "REST",
+    "web",
+    "service"
+  ],
+  "author": "Abimael Carrasquillo",
+  "license": "CC",
+  "bugs": {
+    "url": "https://github.com/acarrasquillo/nodejsRESTservice/issues"
+  },
+  "homepage": "https://github.com/acarrasquillo/nodejsRESTservice",
+  "dependencies": {
+    "mysql": "^2.9.0"
+  }
+}
